@@ -24,7 +24,7 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Unuversity of Cape Town
+  - name: University of Cape Town
     url: https://openai.com/
 
 # Social network links
@@ -144,8 +144,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: Yoruba
+    percent: 100
   - name: Portuguese
     percent: 25
 
