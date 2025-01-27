@@ -52,7 +52,7 @@ interests:
   - Neuroinflammation
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Clinical Science and Immunology
     institution: University of Cape Town
     date_start: 2024-05-27
     date_end: 2020-12-31
@@ -61,10 +61,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc Clinical Science and Immunology
+    institution: University of Cape Town
+    date_start: 2019-01-01
+    date_end: 2023-03-20
     summary: |
       GPA: 3.8/4.0
 
@@ -72,12 +72,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc Anatomy
+    institution: University of Ilorin
+    date_start: 2012-09-16
+    date_end: 2016-09-16
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.61/5.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
