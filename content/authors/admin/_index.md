@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:your-mssble001@myuct.ac.za'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Immunology
+  - Infectious diseases
+  - Neuroinflammation
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Blessing Oluwapelumi Moses is a PhD student of artificial intelligence at the University of Cape Town. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Blessing Oluwapelumi Moses is a PhD student of Clinical Science abd Immunology at the University of Cape Town. Her research interests include immunology, microbiome, infectious diseases and Neuroinflammation. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
